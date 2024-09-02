@@ -154,8 +154,9 @@ input:focus {
   font-size: 0.8rem;
 }
 
-#generate-options input[type="text"] {
-  max-width: 30px;
+#generate-options input[type="number"] {
+  max-width: 40px;
+  padding: 0.6rem 0;
   text-align: center;
   border: 1px solid #ccc;
 }

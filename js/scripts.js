@@ -106,6 +106,6 @@ copyPassword.addEventListener("click", (event) => {
 
     setTimeout(() => {
       copyPassword.innerText = "Copiar";
-    }, 1000);
+    }, 3000);
   });
 });
